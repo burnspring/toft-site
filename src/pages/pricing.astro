@@ -1,0 +1,42 @@
+---
+/**
+ * Pricing: Toft is free, open source under the Apache License 2.0, and the page
+ * says only that.
+ */
+import Site from "../layouts/Site.astro";
+import Icon from "../components/Icon.astro";
+import { PLAYGROUND } from "../links";
+
+const title = "Pricing — Toft";
+const description = "Toft is free, and open source under the Apache License 2.0.";
+---
+
+<Site title={title} description={description}>
+  <section class="container hero">
+    <div class="hero-grid rise">
+      <div>
+        <p class="eyebrow">Pricing</p>
+        <h1>Toft is free.</h1>
+      </div>
+      <div class="hero-side">
+        <p class="lede">
+          Open source under the Apache License 2.0. Install it on your own servers and use every feature, with no
+          key, no cap and nothing to sign up for.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="band">
+    <div class="container close">
+      <div>
+        <h2 class="display">Try it first.</h2>
+        <p class="lede">The playground is a real Toft, open by invitation.</p>
+      </div>
+      <div class="actions">
+        <a class="button primary lg" href={PLAYGROUND}>Request an invite <Icon name="arrow-right" /></a>
+        <a class="button outline lg" href="/#get-started">Install Toft</a>
+      </div>
+    </div>
+  </section>
+</Site>

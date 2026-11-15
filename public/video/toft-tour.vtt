@@ -1,0 +1,146 @@
+WEBVTT
+
+1
+00:00:00.500 --> 00:00:01.342
+This is Toft.
+
+2
+00:00:01.342 --> 00:00:03.738
+Here is what it does, in two minutes.
+
+3
+00:00:05.038 --> 00:00:06.780
+With AI, coding is solved.
+
+4
+00:00:06.780 --> 00:00:11.804
+Your staff and consultants describe what they need, and an agent writes it.
+
+5
+00:00:11.804 --> 00:00:16.359
+So the question is no longer how to build an app, but where it runs.
+
+6
+00:00:16.359 --> 00:00:21.852
+Toft is that place: every app, dashboard, report and job, each with a named owner.
+
+7
+00:00:23.152 --> 00:00:26.650
+Here, Claude Code is asked for a meeting-room booking board.
+
+8
+00:00:26.650 --> 00:00:30.965
+It writes the app, deploys it to Toft with one command, and tests it live.
+
+9
+00:00:30.965 --> 00:00:34.347
+A few minutes later, the facilities team is booking rooms.
+
+10
+00:00:40.147 --> 00:00:45.074
+Which means you no longer need a low-code platform, or a Business Intelligence tool,
+
+11
+00:00:45.074 --> 00:00:45.836
+to get there.
+
+12
+00:00:45.836 --> 00:00:48.827
+This dashboard is just an app, written by an agent.
+
+13
+00:00:48.827 --> 00:00:53.637
+And it runs inside your organization, with access to your data, behind your single
+
+14
+00:00:53.637 --> 00:00:54.106
+sign-on.
+
+15
+00:00:55.406 --> 00:01:00.983
+And the apps already scattered around your organization, on old servers, desktops
+
+16
+00:01:00.983 --> 00:01:06.698
+and dashboard boxes, can be brought under the same umbrella, and modernized as they
+
+17
+00:01:06.698 --> 00:01:07.042
+move.
+
+18
+00:01:07.042 --> 00:01:11.999
+Shiny, Streamlit, R Markdown, plain scripts: one home, one set of rules.
+
+19
+00:01:13.299 --> 00:01:15.318
+Shipping one is a single step.
+
+20
+00:01:15.318 --> 00:01:19.492
+Point Toft at a Git repository, or push from the command line.
+
+21
+00:01:19.492 --> 00:01:25.079
+Toft detects Python, R, Node or Go, builds it, checks its dependencies against your
+
+22
+00:01:25.079 --> 00:01:28.175
+policies, and puts it live at its own address.
+
+23
+00:01:29.475 --> 00:01:34.341
+This one was stopped before it went live: it carried a package with a critical
+
+24
+00:01:34.341 --> 00:01:35.214
+vulnerability.
+
+25
+00:01:35.214 --> 00:01:37.459
+A bad build never takes an app down.
+
+26
+00:01:37.459 --> 00:01:41.077
+Every release is kept, and any version can be rolled back.
+
+27
+00:01:42.377 --> 00:01:46.491
+Owners decide who sees each app, person by person or by group.
+
+28
+00:01:46.491 --> 00:01:50.805
+Secrets are encrypted, and every app runs isolated from the rest.
+
+29
+00:01:52.105 --> 00:01:57.417
+Scheduled jobs and reports run here too, with their history, and a message when one
+
+30
+00:01:57.417 --> 00:01:57.801
+fails.
+
+31
+00:01:59.101 --> 00:02:00.557
+And IT keeps control.
+
+32
+00:02:00.557 --> 00:02:06.033
+One place to see every app, who owns it, what it uses, and every change, in the
+
+33
+00:02:06.033 --> 00:02:06.726
+audit log.
+
+34
+00:02:08.026 --> 00:02:09.777
+Let your people build.
+
+35
+00:02:09.777 --> 00:02:11.290
+Keep IT in control.
+
+36
+00:02:11.290 --> 00:02:13.519
+Get Toft at gettoft dot com.
+

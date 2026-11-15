@@ -1,0 +1,23 @@
+Toft in two minutes — transcript
+
+This is Toft. Here is what it does, in two minutes.
+
+With AI, coding is solved. Your staff and consultants describe what they need, and an agent writes it. So the question is no longer how to build an app, but where it runs. Toft is that place: every app, dashboard, report and job, each with a named owner.
+
+Here, Claude Code is asked for a meeting-room booking board. It writes the app, deploys it to Toft with one command, and tests it live. A few minutes later, the facilities team is booking rooms.
+
+Which means you no longer need a low-code platform, or a Business Intelligence tool, to get there. This dashboard is just an app, written by an agent. And it runs inside your organization, with access to your data, behind your single sign-on.
+
+And the apps already scattered around your organization, on old servers, desktops and dashboard boxes, can be brought under the same umbrella, and modernized as they move. Shiny, Streamlit, R Markdown, plain scripts: one home, one set of rules.
+
+Shipping one is a single step. Point Toft at a Git repository, or push from the command line. Toft detects Python, R, Node or Go, builds it, checks its dependencies against your policies, and puts it live at its own address.
+
+This one was stopped before it went live: it carried a package with a critical vulnerability. A bad build never takes an app down. Every release is kept, and any version can be rolled back.
+
+Owners decide who sees each app, person by person or by group. Secrets are encrypted, and every app runs isolated from the rest.
+
+Scheduled jobs and reports run here too, with their history, and a message when one fails.
+
+And IT keeps control. One place to see every app, who owns it, what it uses, and every change, in the audit log.
+
+Let your people build. Keep IT in control. Get Toft at gettoft dot com.
